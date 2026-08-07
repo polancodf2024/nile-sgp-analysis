@@ -1,0 +1,148 @@
+phmmer results for job 59899774-e2e6-47f1-a642-d1591d251a2f:
+
+Target Num-hits Bias Bit-Score E-value Tax-Id Species Description
+================================================================================================================
+POLG_ZIKV 1	5.8	669.0	2.22e-197	3048459	Orthoflavivirus zikaense	Genome polyprotein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+291	790	292	789	2	496	2.65e-204
+QUERY  nclgmsnrdflegvsgatwvdlvlegdscvtimskdkptidvkmmnmeaanladvrsycylasvsdlstraacptmgeahnekradpafvckqgvvdrgwgngcglfgkgsidtcakfacttkatgwiiqkenikyevaifvhgpttveshgkigatqagrfsitpsapsytlklgeygevtvdceprsgidtsayyvmsvgeksflvhrewfmdlnlpwssa...gsttwrnretlmefeephatkqsvvalgsqegalhqalagaipvefssntvkltsghlkcrvkmeklqlkgttygvcskafkfartpadtghgtvvlelqytgtdgpckvpissvaslndltpvgrlvtvnpfvsvatanskvlieleppfgdsyivvgrgeqqinhhwhksgssigkaftttlrgaqrlaalgdtawdfgsvggvftsvgkaihqvfggafrslfggmswitqgllgalllwmginardrsiamtflavggvllflsvnvh
+MATCH   c+g+snrdf+eg+sg twvd+vle   cvt+m++dkpt+d++++    +n+a+vrsycy as+sd+++ + cpt+gea+ +k++d  +vck+ +vdrgwgngcglfgkgs+ tcakf c+ k tg  iq en++y + + vhg       g       ++  +tp++p     lg +g + +dcepr+g+d s  y ++++ k +lvh+ewf d+ lpw +    g+  w+n+e l+ef++ ha +q+vv lgsqega+h alaga+  e+     +l sghlkcr+km+kl+lkg +y++c+ af f + pa+t hgtv +e+qy gtdgpck+p+     +  ltpvgrl+t np ++ +t nsk+++el+ppfgdsyiv+g g+++i hhwh+sgs+igkaf  t+rga+r+a lgdtawdfgsvggvf s+gk ihq+fg+af+slfggmsw++q l+g ll+w+g+n ++ si++t la+ggv++fls  v 
+PP     6***********************************************************************************************************************************************8665555554455677899*********************************************************7641226668***********************************************************************************************************************************************************************************************************************************************************************98775
+TARGET RCIGVSNRDFVEGMSGGTWVDVVLEHGGCVTVMAQDKPTVDIELVTTTVSNMAEVRSYCYEASISDMASDSRCPTQGEAYLDKQSDTQYVCKRTLVDRGWGNGCGLFGKGSLVTCAKFTCSKKMTGKSIQPENLEYRIMLSVHGSQHSGMIGYETDEDRAKVEVTPNSPRAEATLGGFGSLGLDCEPRTGLDFSDLYYLTMNNKHWLVHKEWFHDIPLPWHAGadtGTPHWNNKEALVEFKDAHAKRQTVVVLGSQEGAVHTALAGALEAEMDGAKGRLFSGHLKCRLKMDKLRLKGVSYSLCTAAFTFTKVPAETLHGTVTVEVQYAGTDGPCKIPVQMAVDMQTLTPVGRLITANPVITESTENSKMMLELDPPFGDSYIVIGVGDKKITHHWHRSGSTIGKAFEATVRGAKRMAVLGDTAWDFGSVGGVFNSLGKGIHQIFGAAFKSLFGGMSWFSQILIGTLLVWLGLNTKNGSISLTCLALGGVMIFLSTAVS
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+POLG_DEN1W 1	6.2	564.8	8.33e-166	3052464	Orthoflavivirus denguei	Genome polyprotein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+281	775	282	774	2	496	9.28e-173
+QUERY  nclgmsnrdflegvsgatwvdlvlegdscvtimskdkptidvkmmnmeaanladvrsycylasvsdlstraacptmgeahnekradpafvckqgvvdrgwgngcglfgkgsidtcakfacttkatgwiiqkenikyevaifvhgpttveshgkigatqag.rfsitpsapsytlklgeygevtvdceprsgidtsayyvmsvgeksflvhrewfmdlnlpwssagst...twrnretlmefeephatkqsvvalgsqegalhqalagaipvefssntvkltsghlkcrvkmeklqlkgttygvcskafkfartpadtghgtvvlelqytgtdgpckvpissvaslndltpvgrlvtvnpfvsvatanskvlieleppfgdsyivvgrgeqqinhhwhksgssigkaftttlrgaqrlaalgdtawdfgsvggvftsvgkaihqvfggafrslfggmswitqgllgalllwmginardrsiamtflavggvllflsvnvh
+MATCH   c+g+ nrdf+eg+sgatwvd+vle  scvt m+kdkpt+d++++  e  n a +r  c  a +s+ +t + cpt+gea   ++ d  fvc++  vdrgwgngcglfgkgs+ tcakf c tk  g i+q en+ky v + vh        g    t+ g   +itp ap+  ++l +yg +t+dc pr+g+d +   ++++ +ks+lvh++wf+dl lpw+s +st   tw+ ++ l+ f+  ha kq vv lgsqega+h al ga  ++ s  t  + +ghlkcr+km+kl lkg +y +c+ +fk+ +  a+t hgtv+++++y gtd+pck+p+ss      +t  grl+t np+v+       v ie eppfg+syivvg ge+ +   w k gssigk f  t rga+r+a lgdtawdfgs+ggvftsvgk ihq+fg a+  lf+g+sw  +  +g ll w+g+n+r  s++mt +avg v l+l v v+
+PP     6**********************************************************************************************************************************************55432.23433.455551578**********************************************************998875668*999************************************976.566799**********************************************************99765.789***********986..5677899*****************************************************************************************999********************************9886
+TARGET RCVGIGNRDFVEGLSGATWVDVVLEHGSCVTTMAKDKPTLDIELLKTEVTNPAVLRKLCIEAKISNTTTDSRCPTQGEATLVEEQDTNFVCRRTFVDRGWGNGCGLFGKGSLITCAKFKCVTKLEGKIVQYENLKYSVIVTVHTGDQH-QVGNE-TTEHGtTATITPQAPTSEIQLTDYGALTLDCSPRTGLDFNEMVLLTMEKKSWLVHKQWFLDLPLPWTSGASTsqeTWNRQDLLVTFKTAHAKKQEVVVLGSQEGAMHTALTGATEIQTS-GTTTIFAGHLKCRLKMDKLTLKGMSYVMCTGSFKLEKEVAETQHGTVLVQVKYEGTDAPCKIPFSSQDE-KGVTQNGRLITANPIVT--DKEKPVNIEAEPPFGESYIVVGAGEKALKLSWFKKGSSIGKMFEATARGARRMAILGDTAWDFGSIGGVFTSVGKLIHQIFGTAYGVLFSGVSWTMKIGIGILLTWLGLNSRSTSLSMTCIAVGMVTLYLGVMVQ
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+POLG_YEFV1 1	4.4	482.4	8.01e-141	3046277	Orthoflavivirus flavi	Genome polyprotein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+286	778	287	777	2	496	9.14e-148
+QUERY  nclgmsnrdflegvsgatwvdlvlegdscvtimskdkptidvkmmnmeaanladvrsycylasvsdlstraacptmgeahnekradpafvckqgvvdrgwgngcglfgkgsidtcakfacttkatgwiiqkenikyevaifvhgpttveshgkigatqagrfsitpsapsytlklgeygevtvdceprsgidtsayyvmsvgeksflvhrewfmdlnlpwssagsttwrnretlmefeephatkqsvvalgsqegalhqalagaipvefs...sntvkltsghlkcrvkmeklqlkgttygvcskafkfartpadtghgtvvlelqytgtdgpckvpissvaslndltpvgrlvtvnpfvsvatanskvlieleppfgdsyivvgrgeqqinhhwhksgssigkaftttlrgaqrlaalgdtawdfgsvggvftsvgkaihqvfggafrslfggmswitqgllgalllwmginardrsiamtflavggvllflsvnvh
+MATCH  +c+g+++rdf+egv g twv   le d cvt+m+ dkp++d+ +  +     a+vr  cy a ++ +  +  cp+ geah  ++ +    ck+   drgwgngcglfgkgsi  cakf c    + + + +  i+y +   +h     e+ +         + +   + s  +++  yg+ t++c+ ++++d    y+  +  +s++v r+w +dl lpw s +   wr    l+efe pha    v+alg+qeg+l  al ga+ v      +n  kl  gh+ crvk+  l lkgt+y +c+  + f + p dtghgtvv++++ +   +pc++p+     l      g lvtvnp+ s  t + +vlie+ ppfgdsyi+vgrg+ ++ ++whk gssigk ft t++g +rla +gdtawdf+s gg ftsvgk ih vfg+af+ lfgg++wit+ ++ga+l+w+gin r+ +++m+++ vg +++fls+ v 
+PP     6*******************************************************************************9999999999********************************9999**************9*98887776553....33334444455677788888***************************************************************************************99975411146789**********************************************9975.679******999999999999********976..7889*******************************************************************************************************************************9885
+TARGET HCIGITDRDFIEGVHGGTWVSATLEQDKCVTVMAPDKPSLDISLETVAIDRPAEVRKVCYNAVLTHVKINDKCPSTGEAHLAEENEGDNACKRTYSDRGWGNGCGLFGKGSIVACAKFTCAKSMSLFEVDQTKIQYVIRAQLHVGAKQENWNT----DIKTLKFDALSGSQEVEFIGYGKATLECQVQTAVDFGNSYIAEMETESWIVDRQWAQDLTLPWQSGSGGVWREMHHLVEFEPPHAATIRVLALGNQEGSLKTALTGAMRVTKDtndNNLYKLHGGHVSCRVKLSALTLKGTSYKICTDKMFFVKNPTDTGHGTVVMQVKVS-KGAPCRIPVIVADDLTAAINKGILVTVNPIAS--TNDDEVLIEVNPPFGDSYIIVGRGDSRLTYQWHKEGSSIGKLFTQTMKGVERLAVMGDTAWDFSSAGGFFTSVGKGIHTVFGSAFQGLFGGLNWITKVIMGAVLIWVGINTRNMTMSMSMILVGVIMMFLSLGVG
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+A0A2V1MW03_9LACO 2	0.8	227.5	1.56e-63	2024736	Levilactobacillus bambusae	Uncharacterized protein (Fragment)
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+35	90	55	81	60	86	4.63e-01
+QUERY  cylasvsdlstraacptmgeahnekra
+MATCH  c+  s s   t   c   ge + ekr+
+PP     77778899999999*999*99999986
+TARGET CWCNSTSTWVTYGTCTATGEHRREKRS
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+156	386	157	381	2	227	2.06e-70
+QUERY  nclgmsnrdflegvsgatwvdlvlegdscvtimskdkptidvkmmnmeaanladvrsycylasvsdlstraacptmgeahnekradpafvckqgvvdrgwgngcglfgkgsidtcakfacttkatgwiiqkenikyevaifvhgpttveshgkigatqagrfsitpsapsytlklgeygevtvdceprsgidtsayyvmsvgeksflvhrewfmdlnlpwssagst
+MATCH   c+g+snrdf+egvsg +wvd+vle  scvt m+k+kpt+d +++  ea + a +r yc  a +++ +t + cpt+ge    ++ d  fvck ++vdrgwgngcglfgkg i tca f c     g i+q en++y + i  h+     + g        ++ +tp +     +l  yg vt++c pr+g+d +   ++ +  k++lvhr+wf+dl lpw   + t
+PP     6*****************************************************************************9999999********************************************************997654.45566666677789******9999************************************************877666
+TARGET RCIGISNRDFVEGVSGGSWVDIVLEHGSCVTTMAKNKPTLDFELIKTEAKHPATLRKYCIEAKLTNTTTASRCPTQGEPSLNEEQDKRFVCKHSMVDRGWGNGCGLFGKGGIVTCAMFTCKKNMEGKIVQPENLEYTIVITPHSGEE-NAVGNDTGKHGKEIKVTPQSSITEAELTGYGTVTMECSPRTGLDFNEMVLLQMENKAWLVHRQWFLDLPLPWLPGADT
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+A0A2V1MYX1_9LACO 1	7.8	107.7	3.27e-27	2024736	Levilactobacillus bambusae	Uncharacterized protein (Fragment)
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+1	104	3	103	396	496	3.35e-34
+QUERY  sgssigkaftttlrgaqrlaalgdtawdfgsvggvftsvgkaihqvfggafrslfggmswitqgllgalllwmginardrsiamtflavggvllflsvnvh
+MATCH  +g sig+ f tt+rga+r+a lgdtawdfgs+ggvfts+gka+hqvfg+ + + f+g+sw  + l+g ++ w+g+n+r  s++++++ vg v l+l v v+
+PP     699**********************************************************************************************9886
+TARGET NGGSIGQMFETTMRGAKRMAILGDTAWDFGSLGGVFTSIGKALHQVFGAIYGAAFSGVSWTMKILIGVVITWIGMNSRSTSLSVSLVLVGVVTLYLGVMVQ
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+A7SRQ2_NEMVE 9	18.8	35.2	3.25e-05	45351	Nematostella vectensis	Uncharacterized protein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+62	131	81	104	343	366	1.20e-02
+QUERY  ndltpvgrlvtvnpfvsvatansk
+MATCH   d+ p  rl  vnp++ +a  n  
+PP     344444444444444444444333
+TARGET ADVNPYIRLADVNPYIRLAYVNPY
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+102	160	115	143	341	369	2.33e-02
+QUERY  slndltpvgrlvtvnpfvsvatanskvli
+MATCH   l d+ p  rl  vnp++ +a  n  + +
+PP     56677777777777777777777765533
+TARGET GLADVNPYIRLAYVNPYIRLADVNPYIRL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+127	239	178	178	359	359	7.90e-03
+QUERY  s
+MATCH   
+PP     2
+TARGET R
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+223	284	238	260	347	369	6.35e-03
+QUERY  pvgrlvtvnpfvsvatanskvli
+MATCH  p  rl  vnp++ +a  n  + +
+PP     55555555555555544444322
+TARGET PYIRLADVNPYIRLADVNPYIRL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+270	338	281	305	345	369	7.28e-03
+QUERY  ltpvgrlvtvnpfvsvatanskvli
+MATCH  + p  rl  vnp++ +a  n  + +
+PP     5555555555555555544444322
+TARGET VNPYIRLADVNPYIRLADVNPYIRL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+315	387	325	348	344	367	4.49e-02
+QUERY  dltpvgrlvtvnpfvsvatanskv
+MATCH  d+ p  rl  vnp++ +a  n  +
+PP     555555555555555555555433
+TARGET DVNPYIRLAYVNPYIRLADVNPYI
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+362	484	423	423	341	341	4.66e-03
+QUERY  s
+MATCH   
+PP     1
+TARGET R
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+467	583	524	524	343	343	4.44e-03
+QUERY  n
+MATCH   
+PP     1
+TARGET A
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+576	626	586	613	342	369	2.29e-02
+QUERY  lndltpvgrlvtvnpfvsvatanskvli
+MATCH  l d+ p  rl  vnp++ +a  n  + +
+PP     6677777777777777777777765533
+TARGET LADVNPYIRLADVNPYIRLADVNPYIRL
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+

@@ -1,0 +1,412 @@
+phmmer results for job d1b9b56b-2ea5-4008-8b5c-6329ca1b31b4:
+
+Target Num-hits Bias Bit-Score E-value Tax-Id Species Description
+================================================================================================================
+POLG_ZIKV 2	0.5	75.8	6.05e-18	3048459	Orthoflavivirus zikaense	Genome polyprotein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+216	290	217	290	2	75	1.03e-23
+QUERY  ltvqthgestlankkgawldstkatrylvkteswilrnpgyalvaavigwmlgsntmqrvvfaillllvapays
+MATCH  +t+ +h+   l  +   wl+s + t++l+k e+wi+rnpg+alva  i+w+lgs+t q+v++ +++ll+apays
+PP     6888999999***************************************************************7
+TARGET VTLPSHSTRKLQTRSQTWLESREYTKHLIKVENWIFRNPGFALVAVAIAWLLGSSTSQKVIYLVMILLIAPAYS
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+2666	2714	2672	2700	20	48	6.14e+00
+QUERY  ldstkatrylvkteswilrnpgyalvaav
+MATCH  ++ t+  r l     w+ + pg   +  +
+PP     57899999999999*******97666554
+TARGET VEETRTLRVLSMVGDWLEKRPGAFCIKVL
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+POLG_YEFV1 3	1.5	47.5	5.28e-09	3046277	Orthoflavivirus flavi	Genome polyprotein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+211	285	214	285	4	75	3.20e-15
+QUERY  vqthgestlankkgawldstkatrylvkteswilrnpgyalvaavigwmlgsntmqrvvfaillllvapays
+MATCH  + th    l  ++  w+      r l k e w++rnp +a+ a  i++++gsn  qrvv+a+l+l v pays
+PP     568888889999999********************************************************7
+TARGET LPTHENHGLKTRQEKWMTGRMGERQLQKIERWFVRNPFFAVTALTIAYLVGSNMTQRVVIALLVLAVGPAYS
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+460	515	482	507	29	56	9.19e+00
+QUERY  lvkteswilrnpgyalvaavigwmlgsn
+MATCH   ++teswi+    +a     + w+ gs 
+PP     46899**98654.332.33456766665
+TARGET EMETESWIVDRQ-WAQ-DLTLPWQSGSG
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+2310	2355	2314	2354	30	70	1.60e+01
+QUERY  vkteswilrnpgyalvaavigwmlgsntmqrvvfaillllv
+MATCH  +k e   l   g a  a+v+++m     + ++ +++++llv
+PP     67777778888999999999999877777777778887776
+TARGET IKVEYGNLSLSGIAQSASVLSFMDKGIPFMKMNISVIMLLV
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+A0A2V1MW03_9LACO 2	0.7	42.8	1.65e-07	2024736	Levilactobacillus bambusae	Uncharacterized protein (Fragment)
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+81	155	91	153	11	73	1.06e-13
+QUERY  tlankkgawldstkatrylvkteswilrnpgyalvaavigwmlgsntmqrvvfaillllvapa
+MATCH   l  +   w+ s  a ++  + e+w+lr+pg+ ++aa++++ +g+  +qrv++ ill  vap+
+PP     56778889*****************************************************97
+TARGET GLETRTETWMSSEGAWKHAQRIETWVLRHPGFTIMAAILAYTIGTTYFQRVLIFILLTAVAPS
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+330	386	345	384	19	60	2.31e+00
+QUERY  wldstkatrylvkteswilrnpgyalvaavigwmlgsntmqr
+MATCH   ld  +     ++ ++w+++   +      + w+ g++t  r
+PP     5666666666677788888776653..445788888888776
+TARGET GLDFNEMVLLQMENKAWLVHRQWFL--DLPLPWLPGADTPSR
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+A0AA88SEA3_CHASR 7	2.7	31.7	5.43e-04	64152	Channa striata	Epiplakin
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+199	254	211	242	15	46	9.00e-02
+QUERY  kkgawldstkatrylvkteswilrnpgyalva
+MATCH    g +l stk t  + + +s  l  pg +lv 
+PP     4699***********************99985
+TARGET IAGVYLQSTKETLSIYEAKSRSLLTPGTSLVL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+512	567	524	555	15	46	9.00e-02
+QUERY  kkgawldstkatrylvkteswilrnpgyalva
+MATCH    g +l stk t  + + +s  l  pg +lv 
+PP     4699***********************99985
+TARGET IAGVYLQSTKETLSIYEAKSRSLLTPGTSLVL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+791	846	803	834	15	46	9.00e-02
+QUERY  kkgawldstkatrylvkteswilrnpgyalva
+MATCH    g +l stk t  + + +s  l  pg +lv 
+PP     4699***********************99985
+TARGET IAGVYLQSTKETLSIYEAKSRSLLTPGTSLVL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+1071	1126	1083	1114	15	46	9.00e-02
+QUERY  kkgawldstkatrylvkteswilrnpgyalva
+MATCH    g +l stk t  + + +s  l  pg +lv 
+PP     4699***********************99985
+TARGET IAGVYLQSTKETLSIYEAKSRSLLTPGTSLVL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+1384	1439	1396	1427	15	46	9.00e-02
+QUERY  kkgawldstkatrylvkteswilrnpgyalva
+MATCH    g +l stk t  + + +s  l  pg +lv 
+PP     4699***********************99985
+TARGET IAGVYLQSTKETLSIYEAKSRSLLTPGTSLVL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+1543	1598	1555	1586	15	46	1.72e-01
+QUERY  kkgawldstkatrylvkteswilrnpgyalva
+MATCH    g +l stk t  +   +s  l  pg +lv 
+PP     4699***********************99985
+TARGET IAGVYLQSTKETLSIYDAKSRSLLTPGTSLVL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+1817	1872	1829	1860	15	46	1.72e-01
+QUERY  kkgawldstkatrylvkteswilrnpgyalva
+MATCH    g +l stk t  +   +s  l  pg +lv 
+PP     4699***********************99985
+TARGET IAGVYLQSTKETLSIYDAKSRSLLTPGTSLVL
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+POLG_DEN1W 2	1.7	31.3	6.88e-04	3052464	Orthoflavivirus denguei	Genome polyprotein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+206	280	216	278	11	73	2.40e-10
+QUERY  tlankkgawldstkatrylvkteswilrnpgyalvaavigwmlgsntmqrvvfaillllvapa
+MATCH   l  +   w+ s  a + + k e+w lr+pg+ ++a  ++  +g++  q+ ++ ill+lv p+
+PP     56677889**************************************999999999*****997
+TARGET GLETRTETWMSSEGAWKQIQKVETWALRHPGFTVIALFLAHAIGTSITQKGIIFILLMLVTPS
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+456	511	469	508	18	59	1.60e+01
+QUERY  awldstkatrylvkteswilrnpgyalvaavigwmlgsntmq
+MATCH    ld  +     ++ +sw+++   +      + w  g++t q
+PP     56677777777788899999877653..44578888888877
+TARGET TGLDFNEMVLLTMEKKSWLVHKQWFL--DLPLPWTSGASTSQ
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+A0A8C7LEG8_ONCKI 13	18.9	29.9	1.92e-03	8019	Oncorhynchus kisutch	Uncharacterized protein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+4	53	8	46	22	60	1.58e-02
+QUERY  stkatrylvkteswilrnpgyalvaavigwmlgsntmqr
+MATCH  s +at y +++  ++l++ gy+l a v   +  s ++q 
+PP     567899999999999999999999998776666666665
+TARGET SLQATVYRLQSTGYMLQSTGYSLQATVYRLQSTSYSLQS
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+28	91	30	60	23	55	3.25e-02
+QUERY  tkatrylvkteswilrnpgyalvaavigwmlgs
+MATCH   +at y +++ s+ l++ gy+l a   g+ l s
+PP     5688888888888888888888765..444433
+TARGET LQATVYRLQSTSYSLQSTGYSLQAT--GYRLQS
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+78	143	100	128	23	51	5.30e-02
+QUERY  tkatrylvkteswilrnpgyalvaavigw
+MATCH   ++t y ++   + l++ gy+l a v   
+PP     34555555566666666666666655544
+TARGET LQSTGYSLQATGYSLQSTGYSLQATVYRL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+132	186	143	181	24	62	6.84e-02
+QUERY  katrylvkteswilrnpgyalvaavigwmlgsntmqrvv
+MATCH  ++t y +++  + l++ gy+l a v + +     +q  v
+PP     567888888888999999999888876655555555555
+TARGET QSTGYRLQSTGYSLQSTGYSLQATVYSLQSTGYRLQSTV
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+149	213	166	199	19	52	8.44e-02
+QUERY  wldstkatrylvkteswilrnpgyalvaavigwm
+MATCH   + s ++t y +++  + l++ gy+l a v   +
+PP     4456667777777777777788888777776544
+TARGET TVYSLQSTGYRLQSTVYRLQSTGYSLQATVYRLQ
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+185	247	198	238	23	63	9.57e-02
+QUERY  tkatrylvkteswilrnpgyalvaavigwmlgsntmqrvvf
+MATCH   +at y +++  + l++ gy+l a v   +    ++q  v+
+PP     57888999999999999999999988766655555665555
+TARGET LQATVYRLQSTVYSLQSTGYSLQATVYRLQSTGYSLQVTVY
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+232	290	248	286	24	62	2.95e-01
+QUERY  katrylvkteswilrnpgyalvaavigwmlgsntmqrvv
+MATCH  ++t y ++   + l++ gy+l   v + +    ++q  v
+PP     456666666666677777777666666555555555555
+TARGET QSTGYSLQVTVYRLQSTGYSLQVTVYSLQATGYSLQATV
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+254	324	274	313	22	61	1.59e-01
+QUERY  stkatrylvkteswilrnpgyalvaavigwmlgsntmqrv
+MATCH  s +at y ++   + l++ gy+l a   + ++   ++q  
+PP     5677777777777888888888777655555555555555
+TARGET SLQATGYSLQATVYRLQSTGYSLQATGYSPQVTGYSLQAT
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+297	364	324	345	23	44	5.48e-01
+QUERY  tkatrylvkteswilrnpgyal
+MATCH   + t y +++ s+ l++ gy l
+PP     3344455555555555555554
+TARGET LQVTVYRLQSTSYRLQSTGYRL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+351	403	360	385	24	51	5.77e-02
+QUERY  katrylvkteswilrnpgyalvaavigw
+MATCH  +at y +++  ++l++ gy+l a   g+
+PP     455555566666666666665543..22
+TARGET QATVYRLQSTGYMLQSTGYSLQAT--GY
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+382	434	387	413	23	49	1.22e-01
+QUERY  tkatrylvkteswilrnpgyalvaavi
+MATCH   +at y ++   + l++ gy+l a v 
+PP     567778888888888888888877764
+TARGET LQATVYRLQATGYSLQSTGYSLQATVY
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+400	454	407	447	22	62	1.22e-01
+QUERY  stkatrylvkteswilrnpgyalvaavigwmlgsntmqrvv
+MATCH  s +at y ++   + l++ gy+l a v   +     +q  v
+PP     56788899999999999999999998875555444555544
+TARGET SLQATVYKLQATVYRLQSTGYSLQATVYKLQATGYMLQSTV
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+424	491	436	466	23	53	3.49e-02
+QUERY  tkatrylvkteswilrnpgyalvaavigwml
+MATCH   +at y++++  + l++ gy+l a v   + 
+PP     5788888888888888888888888765444
+TARGET LQATGYMLQSTVYRLQSTGYSLQATVYRLQS
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+A0A8C7KX11_ONCKI 12	21.2	29.2	3.23e-03	8019	Oncorhynchus kisutch	Uncharacterized protein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+4	101	11	47	25	61	9.75e-03
+QUERY  atrylvkteswilrnpgyalvaavigwmlgsntmqrv
+MATCH  at y +++  ++l++ gy+l a v   +  s ++q  
+PP     5556666666666666666666555444444444433
+TARGET ATVYRLQSTGYMLQSTGYSLQATVYRLQSTSYSLQST
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+77	157	100	139	23	62	4.23e-02
+QUERY  tkatrylvkteswilrnpgyalvaavigwmlgsntmqrvv
+MATCH   ++t y ++   + l++ gy+l a v   +    ++q  v
+PP     4456666666666666666666666655544444555544
+TARGET LQSTGYSLQATGYSLQSTGYSLQATVYRLQSTGYSLQATV
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+126	182	142	167	23	48	8.81e-01
+QUERY  tkatrylvkteswilrnpgyalvaav
+MATCH   +at y +++  + l++ gy+l + v
+PP     45777777777777788888776665
+TARGET LQATVYRLQSTVYRLQSTGYSLQSTV
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+158	224	183	209	22	48	1.83e-01
+QUERY  stkatrylvkteswilrnpgyalvaav
+MATCH  s +at y +++  + l++ gy+l + v
+PP     445666666666667777777666655
+TARGET SLQATVYRLQSTGYRLQSTGYSLQSTV
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+215	273	225	266	22	63	1.95e-02
+QUERY  stkatrylvkteswilrnpgyalvaavigwmlgsntmqrvvf
+MATCH  s +at y +++ s+ l++ gy+l a v   +    ++q  v+
+PP     568999*****************9999776655556665555
+TARGET SLQATVYRLQSTSYRLQSTGYSLQATVYRLQSTGYSLQVTVY
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+263	315	270	308	25	63	5.21e-01
+QUERY  atrylvkteswilrnpgyalvaavigwmlgsntmqrvvf
+MATCH  +t y ++   + l++ gy+l a v   +   + +q  v+
+PP     67788888888999999*999999877766666666665
+TARGET STVYKLQATVYRLQSTGYSLQATVYKLQATVHRLQATVY
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+297	388	346	354	24	32	1.47e-01
+QUERY  katrylvkt
+MATCH   at y +++
+PP     234444444
+TARGET HATVYRLQS
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+360	416	373	401	23	51	1.27e+00
+QUERY  tkatrylvkteswilrnpgyalvaavigw
+MATCH   + t y ++   + l++ gy l a v + 
+PP     56677777888888888999888887655
+TARGET LQVTVYRLQATVYRLQSTGYRLQATVYSL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+388	443	398	429	20	51	1.33e-01
+QUERY  ldstkatrylvkteswilrnpgyalvaavigw
+MATCH  + s + t y +++ s+ l++ gy+l   v   
+PP     56788999****************98877554
+TARGET VYSLQVTVYRLQSTSYRLQSTGYSLQVTVYRL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+427	478	431	471	25	65	9.82e-02
+QUERY  atrylvkteswilrnpgyalvaavigwmlgsntmqrvvfai
+MATCH  +t y ++   + l++ gy+l a v   +    ++q  v+ +
+PP     67788888888999999999988877776667777777655
+TARGET STSYRLQVTCYSLQSTGYSLQATVYRLQSTGYSLQATVYKL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+471	508	479	503	24	48	3.06e-01
+QUERY  katrylvkteswilrnpgyalvaav
+MATCH  ++t y++++  + l+  gy+l a v
+PP     4667777777777777777777665
+TARGET QSTGYMLQSTGYSLQATGYSLQATV
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+504	553	508	547	25	64	3.02e-01
+QUERY  atrylvkteswilrnpgyalvaavigwmlgsntmqrvvfa
+MATCH  at y +++ s+ l++ gy+l     + ++    +q  v++
+PP     889999999**********988877776666666666665
+TARGET ATVYRLQSTSYRLQSTGYSLQVTCYSLQVTVYRLQATVYS
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+A0A9N7UA03_PLEPL 6	2.4	28.8	4.32e-03	8262	Pleuronectes platessa	Uncharacterized protein
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+2	60	6	37	24	54	3.25e-04
+QUERY  katrylvkteswilrnpg.yalvaavigwmlg
+MATCH  k    lv +esw l+ pg ++++ +  +w l 
+PP     55667888888888888844555566677664
+TARGET KGASVLVSSESWCLQRPGvFSVLVSSASWCLQ
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+40	75	44	70	28	53	2.68e-02
+QUERY  ylvkteswilrnpg.yalvaavigwml
+MATCH   lv + sw l+ pg ++++ +  +w l
+PP     578899999999994455556667765
+TARGET VLVSSVSWCLQRPGvFSVLVSSASWCL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+56	100	61	88	28	54	1.05e-02
+QUERY  ylvkteswilrnpg.yalvaavigwmlg
+MATCH   lv + sw l+ pg ++++ + ++w l 
+PP     5788999999999955666777888774
+TARGET VLVSSASWCLQCPGvFSVLVSSVSWCLQ
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+66	109	78	104	28	53	1.66e-02
+QUERY  ylvkteswilrnpg.yalvaavigwml
+MATCH   lv + sw l+ pg ++++ + ++w l
+PP     678888999999984456667778876
+TARGET VLVSSVSWCLQLPGvFSVLVSSVSWCL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+86	155	96	121	29	53	1.98e-02
+QUERY  lvkteswilrnpg.yalvaavigwml
+MATCH  lv + sw l+ pg ++++ + ++w l
+PP     67777777777774455666666765
+TARGET LVSSVSWCLQLPGvFSFLVSSVSWCL
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+131	172	150	158	34	42	2.17e+00
+QUERY  swilrnpgy
+MATCH  sw l+ pg 
+PP     566666663
+TARGET SWCLQLPGV
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
